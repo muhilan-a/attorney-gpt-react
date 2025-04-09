@@ -1,0 +1,29 @@
+fastapi
+uvicorn[standard]
+langchain
+faiss-cpu
+together
+openai
+python-dotenv
+pydantic
+fastapi-utils
+googletrans==4.0.0-rc1
+gtts
+whisper
+sounddevice
+numpy
+scipy
+pyaudio
+SpeechRecognition
+aiofiles
+httpx
+pydub
+python-multipart
+torch
+transformers
+langchain-community
+
+#to run the app ,
+# open terminal 1) cd backend-> npm install->npm run
+# Open another terminal 1)cd frontend->npm install -> npm run
+# might have to install some dependencies if an error occurs
